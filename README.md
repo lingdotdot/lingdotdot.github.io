@@ -11,3 +11,11 @@
 ## 好玩的圖
 
 ![圖片的名字](image.jpg)
+
+```C
+#include <stdio.h>
+main()
+{
+  printf("Hello World");
+}
+```

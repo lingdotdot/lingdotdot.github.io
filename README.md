@@ -10,4 +10,4 @@
 
 ## 好玩的圖
 
-![圖片的名字](http://icrvb3jy.xinmedia.com/solomo/article/24747/8E8724AE-9244-4D97-9ED9-2BEE1E5A5855.jpg)
+![圖片的名字](image.jpg)
